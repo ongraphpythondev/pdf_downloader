@@ -17,7 +17,7 @@ source venv/bin/activate
 pip install -r requirments.txt
 ```
 
-### write all url in a csv file 'list_of_url
+### write all url in the csv file 'list_of_url
 
 ## Run the project
 ```
